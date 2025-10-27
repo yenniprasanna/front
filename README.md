@@ -1,6 +1,6 @@
 # Colloki Femininity and Wellness 🌺
 
-A modern, responsive wellness website designed specifically for women's health and wellbeing. Built with React and FastAPI, this platform provides comprehensive resources for physical, mental, and emotional wellness.
+A modern, responsive wellness website designed specifically for women's health and wellbeing. Built with React and FastAPI, this platform provides comprehensive resources for physical, mental, and emotional wellness.created a dynamic women health and wellness e-commerce website.
 
 ## ✨ Features
 
